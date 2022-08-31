@@ -95,7 +95,7 @@ public class LjubavniKalkulator {
 			}
 			return Integer.parseInt(str.toString());
 		}
-
+ 
 		boolean isOdd = !(p % 2 == 0);
 		int z = isOdd ? 1 : 0;
 		int z1 = isOdd ? 0 : 1;
